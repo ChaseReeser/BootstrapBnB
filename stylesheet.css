@@ -1,0 +1,32 @@
+* {
+  margin: 20px;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.contact{
+  color: teal;
+  text-align: center;
+}
+
+.signup{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20%;
+}
+.grid-row-wrapper{
+  display: contents;
+}
+
+.btn{
+  width: 20%;
+  margin-left: 50%;
+}

@@ -1,0 +1,35 @@
+* {
+  margin: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+.cards {
+  align-items: center;
+}
+
+.cards1 {
+  background-color: lightgrey;
+}
+
+.amenities {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.amen {
+  text-align: center;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+}
